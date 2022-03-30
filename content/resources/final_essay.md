@@ -4,6 +4,7 @@ description: Guidelines, instructions, and suggested topics for the final essay 
   of the course.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21l-007-world-literatures-travel-writing-fall-2008/c449fa460db299f571bfed6af98f3150_final_essay.pdf
 file_type: application/pdf
+parent_uid: d1505680-ea8f-62af-d6b1-2518830092ee
 resourcetype: Document
 title: Final Essay
 uid: c449fa46-0db2-99f5-71bf-ed6af98f3150
